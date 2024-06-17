@@ -1,0 +1,52 @@
+body {
+    background-image: url(WhatsApp\ Image\ 2024-06-17\ at\ 15.48.35.jpeg);
+    background-size: cover;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    opacity: 0.7;
+}
+
+.logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'bona nova';
+    height: 8vh;
+}
+
+.lista {
+    list-style: none;
+    display: flex;
+}
+
+.lista li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+h3 {
+    padding-left: 40px;
+    padding-bottom: 5px;
+    color: white;
+}

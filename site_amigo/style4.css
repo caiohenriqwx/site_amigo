@@ -1,0 +1,25 @@
+body {
+    background-image: url(roxoo.jpg);
+    background-size: cover;
+}
+
+.imagem {
+    border-radius: 40px;
+    margin-left: 500px;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-right: 90px;
+    padding-left: 90px;
+}
+
+h1 {
+    padding-left: 580px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 40px;
+    letter-spacing: 2px;
+}

@@ -1,0 +1,10 @@
+body {
+    background-image: url(gradiente.jpg);
+    background-size: cover;
+}
+
+.nós img {
+    border-radius: 25%;
+    padding: 25px;
+    margin-left: 70px;
+}

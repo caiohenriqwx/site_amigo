@@ -1,0 +1,13 @@
+body {
+    background-image: url(gradiente.jpg);
+    background-size: cover;
+}
+
+.card {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 70px;
+    margin-left: 530px;
+    background-color: rgb(26, 4, 46);
+    color: white;
+}
+
